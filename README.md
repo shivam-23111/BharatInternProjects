@@ -1,5 +1,5 @@
 
-# AI LANGUAGE TRANLATOR
+# AI LANGUAGE TRANSLATOR
 
 A brief description of what this project does and who it's for
 
